@@ -16,13 +16,21 @@ Dataset Description
 Tools and Technologies Used
 
    -Python
+   
    -Pandas
+   
    -NumPy
+   
    -Matplotlib
+   
    -Seaborn
+   
    -Jupyter Notebook
+   
    -VS Code
+   
    -Git and GitHub
+   
 
 Project Structure
 
@@ -35,6 +43,7 @@ Project Structure
 Exploratory Data Analysis (EDA)
 
 The following EDA steps were performed:
+
     Dataset inspection using head(), info(), and describe()
     Checking data types and structure
     Missing value analysis
