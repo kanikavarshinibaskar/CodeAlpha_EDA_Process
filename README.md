@@ -2,9 +2,9 @@ Titanic Dataset – Exploratory Data Analysis (EDA)
 
 Project Overview
 
-This project focuses on performing Exploratory Data Analysis (EDA) and data cleaning on the Titanic dataset using Python.    
-The main objective is to understand the dataset, analyze patterns related to passenger survival, handle missing values, and prepare the data for machine learning models.
-The project is implemented using VS Code with Jupyter Notebook.
+    This project focuses on performing Exploratory Data Analysis (EDA) and data cleaning on the Titanic dataset using Python.    
+    The main objective is to understand the dataset, analyze patterns related to passenger survival, handle missing values, and prepare the data for machine learning models.
+    The project is implemented using VS Code with Jupyter Notebook.
 
 Dataset Description
     Dataset Name: Titanic
