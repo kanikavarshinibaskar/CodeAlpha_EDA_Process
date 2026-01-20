@@ -7,12 +7,14 @@ Project Overview
     The project is implemented using VS Code with Jupyter Notebook.
 
 Dataset Description
+
     Dataset Name: Titanic
     Source: Seaborn built-in dataset
     Number of records: 891 passengers
     Target variable: survived (0 = Not Survived, 1 = Survived)
 
 Tools and Technologies Used
+
    -Python
    -Pandas
    -NumPy
@@ -23,6 +25,7 @@ Tools and Technologies Used
    -Git and GitHub
 
 Project Structure
+
     Titanic_EDA
     │
     ├── eda.ipynb
@@ -30,6 +33,7 @@ Project Structure
     ├── README.md
 
 Exploratory Data Analysis (EDA)
+
 The following EDA steps were performed:
     Dataset inspection using head(), info(), and describe()
     Checking data types and structure
@@ -44,6 +48,7 @@ The following EDA steps were performed:
     Outlier detection using boxplots
 
 Data Cleaning Process
+
     Filled missing values:
        Age was filled using the median
        Embarked was filled using the mode
@@ -55,7 +60,8 @@ Data Cleaning Process
        One-hot encoding for multi-class features
     Handled outliers in the Fare column using the IQR method
 
-Key Insights  
+Key Insights
+
     Females had a higher survival rate than males.
     Passengers in 1st class survived more than 2nd and 3rd class.
     Younger passengers had a higher chance of survival.
